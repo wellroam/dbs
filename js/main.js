@@ -67,6 +67,9 @@
 
 	};
 
+    var scene = document.getElementById('scene');
+    var parallax = new Parallax(scene);
+
 	var offcanvasMenu = function() {
 
 		$('#page').prepend('<div id="fh5co-offcanvas" />');

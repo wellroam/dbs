@@ -27,11 +27,20 @@
     <!-- Theme style  -->
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/style.css">
 
+    <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.min.js"></script>
     <!-- Modernizr JS -->
     <script src="<?php bloginfo('template_url'); ?>/js/modernizr-2.6.2.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/parallax.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/theme.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/rgbaster.js"></script>
     <!-- FOR IE9 below -->
     <!--[if lt IE 9]>
-    <script src="<?php bloginfo('template_url'); ?>/js/respond.min.js"></script>
     <![endif]-->
-
+    <script src="<?php bloginfo('template_url'); ?>/js/jquery.min.js"></script>
 </head>
+<body>
