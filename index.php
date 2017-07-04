@@ -31,6 +31,7 @@
 	<header id="fh5co-header" class="fh5co-cover" role="banner"  data-stellar-background-ratio="0.5">
         <div id="scene" class="fh5co-cover overlay">
             <div class="layer" data-depth="0.0"><img src="<?php bloginfo('template_url'); ?>/images/bg1.jpg"></div>
+            <div class="layer" data-depth="0.1"><img src="<?php bloginfo('template_url'); ?>/images/bg3.png"></div>
             <div class="layer" data-depth="0.3"><img src="<?php bloginfo('template_url'); ?>/images/bg2.png"></div>
         </div>
 		<div class="overlay"></div>
@@ -245,20 +246,20 @@
 	<!-- jQuery -->
 
 	<!-- jQuery Easing -->
-	<script src="<?php bloginfo('template_url'); ?>/js/jquery.easing.1.3.js"></script>
+	<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.easing.1.3.js"></script>
 	<!-- Bootstrap -->
-	<script src="<?php bloginfo('template_url'); ?>/js/bootstrap.min.js"></script>
+	<script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap.min.js"></script>
 	<!-- Waypoints -->
-	<script src="<?php bloginfo('template_url'); ?>/js/jquery.waypoints.min.js"></script>
+	<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.waypoints.min.js"></script>
 	<!-- countTo -->
-	<script src="<?php bloginfo('template_url'); ?>/js/jquery.countTo.js"></script>
+	<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.countTo.js"></script>
 	<!-- Magnific Popup -->
-	<script src="<?php bloginfo('template_url'); ?>/js/jquery.magnific-popup.min.js"></script>
-	<script src="<?php bloginfo('template_url'); ?>/js/magnific-popup-options.js"></script>
+	<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.magnific-popup.min.js"></script>
+	<script src="<?php echo get_template_directory_uri(); ?>/js/magnific-popup-options.js"></script>
 	<!-- Stellar -->
-	<script src="<?php bloginfo('template_url'); ?>/js/jquery.stellar.min.js"></script>
+	<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.stellar.min.js"></script>
 	<!-- Main -->
-	<script src="<?php bloginfo('template_url'); ?>/js/main.js"></script>
+	<script src="<?php echo get_template_directory_uri(); ?>/js/main.js"></script>
 
 
 	</body>

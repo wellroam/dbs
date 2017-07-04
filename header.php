@@ -15,32 +15,32 @@
 
 
 
-    <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/animate.css">
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/animate.css">
     <!-- Icomoon Icon Fonts-->
-    <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/icomoon.css">
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/icomoon.css">
     <!-- Bootstrap  -->
-    <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/bootstrap.css">
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/bootstrap.css">
 
     <!-- Magnific Popup -->
-    <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/magnific-popup.css">
+    <link rel="stylesheet" href="https://cdn.bootcss.com/magnific-popup.js/1.1.0/magnific-popup.min.css">
 
     <!-- Theme style  -->
-    <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/style.css">
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/style.css">
 
     <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.min.js"></script>
+    <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
     <!-- Modernizr JS -->
-    <script src="<?php bloginfo('template_url'); ?>/js/modernizr-2.6.2.min.js"></script>
-    <script src="<?php bloginfo('template_url'); ?>/js/parallax.min.js"></script>
-    <script src="<?php bloginfo('template_url'); ?>/js/theme.js"></script>
-    <script src="<?php bloginfo('template_url'); ?>/js/rgbaster.js"></script>
+    <script src="https://cdn.bootcss.com/modernizr/2.6.2/modernizr.min.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/parallax.min.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/theme.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/rgbaster.js"></script>
     <!-- FOR IE9 below -->
     <!--[if lt IE 9]>
     <![endif]-->
-    <script src="<?php bloginfo('template_url'); ?>/js/jquery.min.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.min.js"></script>
 </head>
 <body>
