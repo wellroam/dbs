@@ -28,7 +28,7 @@
 		</div>
 	</nav>
 
-	<header id="fh5co-header" class="fh5co-cover" role="banner"  data-stellar-background-ratio="0.5">
+	<header id="fh5co-header" class="fh5co-cover js-full-height" role="banner"  data-stellar-background-ratio="0.5">
         <div id="scene" class="fh5co-cover overlay">
             <div class="layer" data-depth="0.0"><img src="<?php bloginfo('template_url'); ?>/images/bg1.jpg"></div>
             <div class="layer" data-depth="0.1"><img src="<?php bloginfo('template_url'); ?>/images/bg3.png"></div>
@@ -155,7 +155,7 @@
             </div>
         </div>
 
-        <div class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/zzzw1.jpg")  data-stellar-background-ratio="0.5" >
+        <div class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/fj.jpg")  data-stellar-background-ratio="0.5" >
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
@@ -246,11 +246,9 @@
 	<!-- jQuery -->
 
 	<!-- jQuery Easing -->
-	<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.easing.1.3.js"></script>
-	<!-- Bootstrap -->
-	<script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap.min.js"></script>
+	<script src="https://cdn.bootcss.com/jquery-easing/1.3/jquery.easing.min.js"></script>
 	<!-- Waypoints -->
-	<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.waypoints.min.js"></script>
+	<script src="https://cdn.bootcss.com/waypoints/4.0.1/jquery.waypoints.min.js"></script>
 	<!-- countTo -->
 	<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.countTo.js"></script>
 	<!-- Magnific Popup -->

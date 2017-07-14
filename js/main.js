@@ -40,7 +40,7 @@
 	    	
 	    }
 		});
-
+        new WOW().init();
 	};
 
 
@@ -264,6 +264,8 @@
 		counterWayPoint();
 		parallax();
 	});
+
+
 
 
 }());
