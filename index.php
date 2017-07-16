@@ -12,13 +12,14 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-2 text-left">
-					<div id="fh5co-logo"><a href="index.php">大白鲨影视<span>.</span></a></div>
+					<div id="fh5co-logo"><a href="index.php">杜梨动画<span>.</span></a></div>
 				</div>
 				<div class="col-xs-10 text-right menu-1">
 					<ul>
 						<li class="active"><a href="index.php">主页</a></li>
 						<li><a href="#fh5co-project">作品</a></li>
 						<li><a href="#fh5co-services">关于我们</a></li>
+                        <li><a href="#joinus">加入我们</a></li>
 						<li><a href="#fh5co-counter">团队经验</a></li>
 						<li><a href="#contact">联系我们</a></li>
 					</ul>
@@ -57,7 +58,7 @@
 				<div class="col-md-8 col-md-offset-2 text-left fh5co-heading  animate-box">
 					<span>我们用镜头讲述你的故事</span>
 					<h2>作品</h2>
-					<p>大白鲨动画团队核心制作人员在影视广告、动画制作行业已经侵润十年有余，秉承以客户的成功作为我们的核心理念，力争为客户提供更多更具价值的服务</p>
+					<p>力争用最好的技艺实现您的产品价值</p>
 				</div>
 			</div>
 
@@ -96,8 +97,8 @@
                     <div class="center-block text-center">
                         <div class="display-t">
                             <div class="display-tc animate-box" data-animate-effect="fadeInUp">
-                                <h1 class="mb30">梦想·创想·青春</h1>
-                                <h2>大白鲨影视，创办于2017年，为追求无限创意的设计师喝彩！</h2>
+                                <h1 class="mb30">创意·创新·创造</h1>
+                                <h2>杜梨动画，为追求无限创意的设计师喝彩！</h2>
 
                             </div>
                         </div>
@@ -111,9 +112,9 @@
                 <div class="row row-pb-md">
                     <div class="col-md-8 col-md-offset-2 text-left animate-box" data-animate-effect="fadeInUp">
                         <div class="fh5co-heading">
-                            <span>我们匠心独运用</span>
+                            <span>我们匠心独运</span>
                             <h2>关于我们</h2>
-                            <p>站在公司身后的，是一支年轻有为的实力团队。这里不单有制作经验丰富的导演，同时也有十余年经验的制作团队。</p>
+                            <p>杜梨动画前身大白汐动画工作室，成立于2014年。团队核心成员皆是行业个模块老手，制作企业产品动画项目与电视台栏目包装无数，更是为了梦想而不断的制作原创动画，助推国漫复兴，本公司团队核心成员大白汐制作的原创动画《轮回》于2017年一经发布便引起各大视频网站强烈反响。</p>
                         </div>
                     </div>
                 </div>
@@ -155,15 +156,19 @@
             </div>
         </div>
 
-        <div class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/fj.jpg")  data-stellar-background-ratio="0.5" >
+
+        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/zzzw1.jpg")  data-stellar-background-ratio="0.5" >
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
                     <div class="center-block text-center">
                         <div class="display-t">
                             <div class="display-tc animate-box" data-animate-effect="fadeInUp">
-                                <h1 class="mb30">动画·栏包·广告</h1>
-                                <h2>十年磨一剑，我们的团队有丰富的项目经验</h2>
+                                <h1 class="mb30">加入我们</h1>
+                                <h2>我们真诚欢迎热爱动画事业的人才加盟我们的团队！</h2>
+                                <p>
+                                    <a href="<?php echo get_template_directory_uri(); ?>/index.php" target="_blank" class="btn btn-primary">申请职位</a>
+                                </p>
 
                             </div>
                         </div>
@@ -171,6 +176,7 @@
                 </div>
             </div>
         </div>
+
         <div id="fh5co-counter" class="fh5co-bg "  >
             <div class="container">
 

@@ -11,7 +11,7 @@
 *
 * ======================================================= */
 body {
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family:"Microsoft YaHei UI","Microsoft YaHei","PingFang SC","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
@@ -62,7 +62,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, figure {
   color: #000;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family:"Microsoft YaHei UI","Microsoft YaHei","PingFang SC","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
 }
@@ -527,7 +527,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-top: 0;
   font-size: 60px;
   line-height: 1.3;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family:"Microsoft YaHei UI","Microsoft YaHei","PingFang SC","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-weight: 300;
 }
 @media screen and (max-width: 768px) {
@@ -673,7 +673,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-testimonial .testimonial p.author cite {
   font-style: normal;
   font-size: 13px;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family:"Microsoft YaHei UI","Microsoft YaHei","PingFang SC","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 #fh5co-testimonial .testimonial p:last-child {
   margin-bottom: 0;
@@ -1525,7 +1525,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family:"Microsoft YaHei UI","Microsoft YaHei","PingFang SC","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 16px;
   font-weight: 400;
   -webkit-border-radius: 4px;
@@ -1735,16 +1735,16 @@ h1, h2, h3, h4, h5, h6, figure {
 
 /*# sourceMappingURL=style.css.map */
 .img-cover-box {
-  width: 320px;
-  height: 200px;
+  width: 360px;
+  height: 269.6px;
   overflow: hidden;
 
 
 }
 
 .img-cover-box .size-img-cover {
-  max-height:200px ;
-  max-width: 320px;
+  width: 360px;
+  height: 269.6px;
 }
 
 
@@ -2439,7 +2439,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-footer-style-3 .fh5co-logo {
   color: #fff;
   font-size: 50px;
-  font-family: "Montserrat", Arial, sans-serif;
+  font-family:"Microsoft YaHei UI","Microsoft YaHei","PingFang SC","Helvetica Neue",Helvetica,Arial,sans-serif;
   margin-bottom: 40px;
 }
 .fh5co-footer-style-3 .fh5co-logo .logo {
@@ -2459,7 +2459,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-footer-style-3 h3 {
   color: #fff;
-  font-family: "Montserrat", Arial, sans-serif;
+  font-family:"Microsoft YaHei UI","Microsoft YaHei","PingFang SC","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -2512,7 +2512,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-top: 4em;
 }
 .fh5co-footer-style-3 .fh5co-made p {
-  font-family: "Montserrat", Arial, sans-serif;
+  font-family:"Microsoft YaHei UI","Microsoft YaHei","PingFang SC","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 50px;
   text-align: center;
 }
