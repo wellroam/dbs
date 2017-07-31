@@ -30,8 +30,8 @@
 	</nav>
 
 	<header id="fh5co-header" class="fh5co-cover js-full-height" role="banner"  data-stellar-background-ratio="0.5">
-        <div id="scene" class="fh5co-cover overlay js-full-height">
-            <video src="<?php echo get_template_directory_uri(); ?>/images/GIFTemp_CE8.mp4" autoplay="autoplay" loop="loop" >
+        <div id="scene" class="fh5co-cover overlay js-full-height ">
+            <video  src="<?php echo get_template_directory_uri(); ?>/images/GIFTemp_3F730.mp4" autoplay="autoplay" loop="loop" >
 
             </video>
         </div>
@@ -90,7 +90,7 @@
 		
 	</div>
 
-        <div class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/zzzw.jpg")  data-stellar-background-ratio="0.5" >
+        <div class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover2.png")  data-stellar-background-ratio="0.25" >
         <div class="overlay"></div>
             <div class="container">
                 <div class="row">
@@ -157,7 +157,7 @@
         </div>
 
 
-        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/zzzw1.jpg")  data-stellar-background-ratio="0.5" >
+        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover3.png")  data-stellar-background-ratio="0.25" >
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">

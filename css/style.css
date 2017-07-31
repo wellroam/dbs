@@ -295,7 +295,9 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 0;
   left: 0;
   right: 0;
+  /*background: radial-gradient(circle farthest-corner at right bottom,#e9f0f2 0,#fcfeff 100%);*/
   background: rgba(42, 51, 86, 0.0);
+  box-shadow:inset 0 -1px 0 rgba(0,0,0,.04);
   overflow: hidden;
 }
 
@@ -2532,4 +2534,12 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-footer-style-3 .fh5co-made p .heart {
   color: #fb4f59;
+}
+
+
+.blur{
+  -webkit-filter:blur(100px);
+  -moz-filter:blur(100px);
+  -ms-filter:blur(100px);
+  filter:blur(100px);
 }
