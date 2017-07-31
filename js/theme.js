@@ -1,42 +1,5 @@
 //主题开始
-function changeNavState() {
-    if (document.getElementById("top-main-nav").getAttribute("mobileState") == "on") {
-        document.getElementById("top-main-nav").setAttribute("mobileState", "off");
-        $(".top-main-nav-mobile-btn").removeClass("open");
-        $("#main").removeClass("blur")
-    } else {
-        document.getElementById("top-main-nav").setAttribute("mobileState", "on");
-        $(".top-main-nav-mobile-btn").addClass("open");
-        $("#main").addClass("blur")
-    }
-}
-function changeSidebarState() {
-    if (document.getElementById("sideBar").getAttribute("mobileState") == "on") {
-        document.getElementById("sideBar").setAttribute("mobileState", "off");
-        $(".sidebar-mobile-btn").removeClass("open")
-    } else {
-        document.getElementById("sideBar").setAttribute("mobileState", "on");
-        $(".sidebar-mobile-btn").addClass("open")
-    }
-}
-function changeSidebarStateInSingle() {
-    if (document.getElementById("sideBar").getAttribute("singleState") == "on") {
-        document.getElementById("sideBar").setAttribute("singleState", "off");
-        $("#sideBar").removeClass("show");
-        $(".single-content").addClass("col-sm-12");
-        $(".single-content").removeClass("col-sm-9 withSidebar")
-    } else {
-        document.getElementById("sideBar").setAttribute("singleState", "on");
-        $("#sideBar").addClass("show");
-        $(".single-content").removeClass("col-sm-12");
-        $(".single-content").addClass("col-sm-9 withSidebar");
-        slideBarNormalHeight = $("#sideBar").height() + $("#sideBar").offset().top;
-        slideBarNormalWidth = $("#sideBar .sidebar-designer").width();
-        slideBarNormalOffsetTop = $("#sideBar").offset().top
-    }
-    changeSidebarOnscroll();
-    parseFaces()
-}
+
 $(function() {
     $(".sub-menu").prev().removeAttr("href")
 });
@@ -86,59 +49,8 @@ $(function() {
         })
     }
 });
-$(function() {
-    $("#articleContent a").each(function(a, b) {
-        var c = b.getAttribute("href");
-        if ((c.indexOf(".svg") > 0 | c.indexOf(".SVG") > 0 | c.indexOf(".jpg") > 0 | c.indexOf(".JPG") > 0 | c.indexOf(".png") > 0 | c.indexOf(".PNG") > 0 | c.indexOf(".tif") > 0 | c.indexOf(".TIF") > 0 | c.indexOf(".jpeg") > 0 | c.indexOf(".JEPG") > 0 | c.indexOf(".tiff") > 0 | c.indexOf(".TIFF") > 0) & b.getAttribute("rel") != "no-shadowbox") {
-            b.setAttribute("rel", "shadowbox")
-        }
-    })
-});
 
-$(window).resize(function(a) {
-    changeSidebarOnscroll()
-});
-function changeSidebarOnscroll() {
-    if ($(window).width() >= 768) {
-        if ($(document).scrollTop() > slideBarNormalHeight) {
-            $("#sideBar .sidebar-designer").css({
-                "position": "fixed",
-                "width": $("#sideBar").width(),
-                "top": "15px"
-            });
-            $("#sideBar .categories,#sideBar .links").hide();
-            if (slideBarAnimation) {
-                slideBarAnimation = false;
-                $("#sideBar .sidebar-designer").hide();
-                $("#sideBar .sidebar-designer").slideDown()
-            }
-        }
-        if (($(document).scrollTop() < slideBarNormalOffsetTop) & !slideBarAnimation) {
-            $("#sideBar .sidebar-designer").removeAttr("style");
-            $("#sideBar .categories,#sideBar .links").slideDown("slow");
-            slideBarAnimation = true
-        }
-    }
-}
-$(".goToTop").click(function() {
-    $("html,body").animate({
-        scrollTop: "0px"
-    },
-    500)
-});
-function designerModeShowCats(a) {
-    if (a == "show") {
-        $(".sidebar-designer .box.search,.sidebar-designer .designerNav.content").slideDown();
-        $(".showMoreCats").html("- 收起");
-        designerModeCatsState = true;
-        updateLocalData()
-    } else {
-        $(".sidebar-designer .box.search,.sidebar-designer .designerNav.content").slideUp();
-        $(".showMoreCats").html("+ 展开");
-        designerModeCatsState = false;
-        updateLocalData()
-    }
-}
+
 $(".showMoreCats").click(function() {
     if ($(".sidebar-designer .box.search").css("display") == "none") {
         designerModeShowCats("show")

@@ -250,7 +250,15 @@
 		}
 	};
 
-
+    var fullHeight = function () {
+    	console.log(!isMobile.any());
+        if (!isMobile.any()) {
+            $('.js-full-height').css('height', $(window).height());
+            $(window).resize(function () {
+                $('.js-full-height').css('height', $(window).height());
+            });
+        }
+    };
 	
 	$(function(){
 		mobileMenuOutsideClick();
@@ -263,6 +271,7 @@
 		loaderPage();
 		counterWayPoint();
 		parallax();
+		fullHeight();
 	});
 
 

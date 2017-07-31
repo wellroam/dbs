@@ -12,7 +12,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-2 text-left">
-					<div id="fh5co-logo"><a href="index.php">杜梨动画<span>.</span></a></div>
+					<div id="fh5co-logo"><a href="index.php">夏缶动画<span>.</span></a></div>
 				</div>
 				<div class="col-xs-10 text-right menu-1">
 					<ul>
@@ -30,10 +30,10 @@
 	</nav>
 
 	<header id="fh5co-header" class="fh5co-cover js-full-height" role="banner"  data-stellar-background-ratio="0.5">
-        <div id="scene" class="fh5co-cover overlay">
-            <div class="layer" data-depth="0.0"><img src="<?php bloginfo('template_url'); ?>/images/bg1.jpg"></div>
-            <div class="layer" data-depth="0.1"><img src="<?php bloginfo('template_url'); ?>/images/bg3.png"></div>
-            <div class="layer" data-depth="0.3"><img src="<?php bloginfo('template_url'); ?>/images/bg2.png"></div>
+        <div id="scene" class="fh5co-cover overlay js-full-height">
+            <video src="<?php echo get_template_directory_uri(); ?>/images/GIFTemp_CE8.mp4" autoplay="autoplay" loop="loop" >
+
+            </video>
         </div>
 		<div class="overlay"></div>
 		<div class="container">
@@ -98,7 +98,7 @@
                         <div class="display-t">
                             <div class="display-tc animate-box" data-animate-effect="fadeInUp">
                                 <h1 class="mb30">创意·创新·创造</h1>
-                                <h2>杜梨动画，为追求无限创意的设计师喝彩！</h2>
+                                <h2>夏缶动画，为追求无限创意的设计师喝彩！</h2>
 
                             </div>
                         </div>
@@ -114,7 +114,7 @@
                         <div class="fh5co-heading">
                             <span>我们匠心独运</span>
                             <h2>关于我们</h2>
-                            <p>杜梨动画前身大白汐动画工作室，成立于2014年。团队核心成员皆是行业个模块老手，制作企业产品动画项目与电视台栏目包装无数，更是为了梦想而不断的制作原创动画，助推国漫复兴，本公司团队核心成员大白汐制作的原创动画《轮回》于2017年一经发布便引起各大视频网站强烈反响。</p>
+                            <p>夏缶动画前身大白汐动画工作室，成立于2014年。团队核心成员皆是行业个模块老手，制作企业产品动画项目与电视台栏目包装无数，更是为了梦想而不断的制作原创动画，助推国漫复兴，本公司团队核心成员大白汐制作的原创动画《轮回》于2017年一经发布便引起各大视频网站强烈反响。</p>
                         </div>
                     </div>
                 </div>
