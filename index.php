@@ -166,10 +166,6 @@
                             <div class="display-tc animate-box" data-animate-effect="fadeInUp">
                                 <h1 class="mb30">加入我们</h1>
                                 <h2>我们真诚欢迎热爱动画事业的人才加盟我们的团队！</h2>
-                                <p>
-                                    <a href="<?php echo get_template_directory_uri(); ?>/index.php" target="_blank" class="btn btn-primary">申请职位</a>
-                                </p>
-
                             </div>
                         </div>
                     </div>
