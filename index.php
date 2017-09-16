@@ -90,7 +90,7 @@
 		
 	</div>
 
-        <div class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover2.png")  data-stellar-background-ratio="0.25" >
+        <div class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover2.png")  data-stellar-background-ratio="0.8" >
         <div class="overlay"></div>
             <div class="container">
                 <div class="row">
@@ -157,7 +157,7 @@
         </div>
 
 
-        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover3.png")  data-stellar-background-ratio="0.25" >
+        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover3.png")  data-stellar-background-ratio="0.8" >
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
@@ -221,19 +221,16 @@
                         <p>联系我们</p>
                     </div>
                 </div>
+                <div class="p-b"></div>
 
                 <div class="row p-b">
                     <div class="col-lg-4  text-center wow bounceIn" >
                         <i class="fh5co-logo icon-phone"></i>
-                        <p>+86 028-11111111</p>
+                        <p>+86 13882215142</p>
                     </div>
-                    <div class="col-lg-4  text-center wow bounceIn" >
-                        <i class="fh5co-logo icon-location"></i>
-                        <p>四川省成都市武侯区盛安街401号天合凯旋南城1栋B座1211室</p>
-                    </div>
-                    <div class="col-lg-4  text-center wow bounceIn">
+                    <div class="col-lg-4 col-lg-offset-4 text-center wow bounceIn">
                         <i class="fh5co-logo icon-mail"></i>
-                        <a href="mailto:kf@matrixwing.com"><p>449184990@qq.com</p></a>
+                        <a href="mailto:kf@matrixwing.com"><p>810759340@qq.com</p></a>
                     </div>
                 </div>
             </div>
