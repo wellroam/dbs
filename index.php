@@ -90,7 +90,7 @@
 		
 	</div>
 
-        <div class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover2.png")  data-stellar-background-ratio="0.8" >
+        <div class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover4.png")  data-stellar-background-ratio="0.85" >
         <div class="overlay"></div>
             <div class="container">
                 <div class="row">
@@ -157,7 +157,7 @@
         </div>
 
 
-        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover3.png")  data-stellar-background-ratio="0.8" >
+        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover3.png")  data-stellar-background-ratio="0.85" >
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
