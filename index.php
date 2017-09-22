@@ -114,7 +114,10 @@
                         <div class="fh5co-heading">
                             <span>我们匠心独运</span>
                             <h2>关于我们</h2>
-                            <p>夏缶动画前身大白汐动画工作室，成立于2014年。团队核心成员皆是行业个模块老手，制作企业产品动画项目与电视台栏目包装无数，更是为了梦想而不断的制作原创动画，助推国漫复兴，本公司团队核心成员大白汐制作的原创动画《轮回》于2017年一经发布便引起各大视频网站强烈反响。</p>
+                            <p>成都夏缶动画有限公司成立于2017年，注册资本壹佰万，办公面积60平，公司位于成都市武侯区西部智谷D区，主营业务各类三维动画、影视后期
+                                团队核心成员皆是行业模块老手，制作企业产品动画项目与电视台栏目包装无数，在面对各种类型的商业客户，我们都能快速高效的完成商业答卷！更是为了梦想而不断的制作原创动画，助推国漫复兴。本公司团队核心成员大白汐制作的原创动画《轮回》于2017年一经发布便引起各大视频网站强烈反响。
+                                公司成立以来致力于三维动画、影视后期等专业领域，经过不懈努力，得到了各合作方、同行的认可。公司一直注重创新，希望未来继续稳步发展，实现客户、管理、人才等多方面的积累。同时也希望能诞生更多的原创作品。
+                            <p>
                         </div>
                     </div>
                 </div>
@@ -124,8 +127,9 @@
 						<span class="icon">
 							<i class="icon-eye"></i>
 						</span>
-                            <h3>优秀团队</h3>
-                            <p>多年从业经验的优秀团队，作品精美画风成熟。涵盖各种风格、不同领域，时刻准备应对您的不同需求。</p>
+                            <h3>经验</h3>
+                            <p>夏缶动画有非常丰富项目经验丰富，高度完成了各种不同类型的项目，一定有与您的企业需求类似的项目。</p>
+
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 ">
@@ -133,8 +137,8 @@
 						<span class="icon">
 							<i class="icon-command"></i>
 						</span>
-                            <h3>节约成本</h3>
-                            <p>没有转包及中介，由公司直接为您报价，保证每一分钱都体现在稿件质量上，用更低的价格获得更高质量的稿件。</p>
+                            <h3>技艺</h3>
+                            <p>夏缶动画不仅能使用各大动画软件，呈现完整的动画成片，同时还能提供符合企业产品宣传理念的动画方案、创意脚本。</p>
 
                         </div>
                     </div>
@@ -144,14 +148,46 @@
 						<span class="icon">
 							<i class="icon-power"></i>
 						</span>
-                            <h3>信誉保证</h3>
-                            <p>完善的信誉体系，评价均来自真实交易，多项信誉数据供参考。全程担保交易，让您不再害怕跑单，约稿更安心。</p>
+                            <h3>服务</h3>
+                            <p>夏缶动画具有优质的服务，给您的企业带来充分的保障，周到的服务不仅仅停留在动画制作过程中，还会在项目完成之后为您带来更多细心的售后服务。</p>
 
                         </div>
                     </div>
 
                     <div class="clearfix visible-md-block"></div>
 
+                    <div class="col-md-4 col-sm-6 ">
+                        <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+						<span class="icon">
+							<i class="icon-eye"></i>
+						</span>
+                            <h3>创意</h3>
+                            <p>根据客户需要，由专业创意团队与您一对一沟通，给出最佳方案</p>
+
+                        </div>
+                    </div>
+                    <div class="clearfix visible-sm-block"></div>
+                    <div class="col-md-4 col-sm-6 ">
+                        <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+						<span class="icon">
+							<i class="icon-command"></i>
+						</span>
+                            <h3>报价</h3>
+                            <p>相对于价格，夏缶动画更关注创造客户价值，报价透明是唯一的承诺</p>
+
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 ">
+                        <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+						<span class="icon">
+							<i class="icon-power"></i>
+						</span>
+                            <h3>品质</h3>
+                            <p>团队成员拥有当下先进的CG制作技术，具备高清制作能力和高清处理流程，保证画面完整度，做出更高品质的动画。</p>
+                        </div>
+                    </div>
+
+                    <div class="clearfix visible-md-block"></div>
                 </div>
             </div>
         </div>
@@ -180,7 +216,7 @@
                     <div class="col-md-8 col-md-offset-2 text-left fh5co-heading">
                         <span>不积硅步无以至千里</span>
                         <h2>团队经验</h2>
-                        <p>介绍公司主要业务</p>
+                        <p>三维动画、栏目包装、影视后期</p>
                     </div>
                 </div>
 
@@ -212,6 +248,39 @@
             </div>
         </div>
 
+        <div id="fh5co-blog" class="fh5co-bg-section">
+            <div class="container">
+                <div class="row animate-box row-pb-md" data-animate-effect="fadeInUp">
+                    <div class="col-md-8 col-md-offset-2 text-left fh5co-heading">
+                        <span>术业有专供</span>
+                        <h2>夏缶精神</h2>
+                        <p>找准的方向，用对的方法，做好的方案， 实现自我理想与价值。</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-4 animate-box" data-animate-effect="fadeInUp">
+                        <div class="fh5co-post">
+                            <h3><a>企业精神</a></h3>
+                            <p>超越自我，勇往直前<br>我们的存在就是为客户创造价值</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4 animate-box" data-animate-effect="fadeInUp">
+                        <div class="fh5co-post">
+                            <h3><a>企业法则</a></h3>
+                            <p>细节决定成败<br>低调做人，高调做事</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4 animate-box" data-animate-effect="fadeInUp">
+                        <div class="fh5co-post">
+                            <h3><a>企业价值观</a></h3>
+                            <p>永为先驱<br>尽善尽美</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
 
 
         <div id="contact" class="fh5co-footer-style-3">
@@ -226,17 +295,23 @@
                 <div class="row p-b">
                     <div class="col-lg-4  text-center wow bounceIn" >
                         <i class="fh5co-logo icon-phone"></i>
-                        <p>+86 13882215142</p>
+                        <p>13882215142</p>
                     </div>
-                    <div class="col-lg-4 col-lg-offset-4 text-center wow bounceIn">
+                    <div class="col-lg-4 text-center wow bounceIn" >
+                        <i class="fh5co-logo icon-location "></i>
+                        <p>成都市武侯区西部智谷D区2栋1单元706</p>
+                    </div>
+                    <div class="col-lg-4  text-center wow bounceIn">
                         <i class="fh5co-logo icon-mail"></i>
-                        <a href="mailto:kf@matrixwing.com"><p>810759340@qq.com</p></a>
+                        <a href="mailto:shufflecg@shufflecg.com"><p>shufflecg@shufflecg.com</p></a>
                     </div>
                 </div>
             </div>
         </div>
 
 	</div>
+
+
 
 	<div class="gototop js-top">
 		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
