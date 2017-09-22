@@ -619,6 +619,11 @@ h1, h2, h3, h4, h5, h6, figure {
   background-repeat: no-repeat;
 }
 
+.fh5co-services{
+  padding: 7em 0;
+  clear: both;
+}
+
 #fh5co-services,
 #fh5co-started,
 #fh5co-testimonial,
@@ -638,7 +643,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-repeat: no-repeat;
 }
 @media screen and (max-width: 768px) {
-  #fh5co-services,
+  .fh5co-services,
   #fh5co-started,
   #fh5co-testimonial,
   #fh5co-blog,
@@ -953,7 +958,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 
-#fh5co-services.border-bottom {
+.fh5co-services.border-bottom {
   border-bottom: 1px solid #dae6ef;
   -webkit-box-shadow: 0px 5px 7px -7px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: 0px 5px 7px -7px rgba(0, 0, 0, 0.15);

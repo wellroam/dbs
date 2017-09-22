@@ -107,7 +107,7 @@
             </div>
         </div>
 
-        <div id="fh5co-services" class="fh5co-bg-section border-bottom"  data-stellar-background-ratio="0.5">
+        <div class="fh5co-services fh5co-bg-section border-bottom"  data-stellar-background-ratio="0.5">
             <div class="container">
                 <div class="row row-pb-md">
                     <div class="col-md-8 col-md-offset-2 text-left animate-box" data-animate-effect="fadeInUp">
@@ -193,7 +193,7 @@
         </div>
 
 
-        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover3.png")  data-stellar-background-ratio="0.85" >
+        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover6.png")  data-stellar-background-ratio="0.85" >
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
@@ -248,13 +248,29 @@
             </div>
         </div>
 
+        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover7.png")  data-stellar-background-ratio="0.85" >
+            <div class="overlay"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="center-block text-center">
+                        <div class="display-t">
+                            <div class="display-tc animate-box" data-animate-effect="fadeInUp">
+                                <h1 class="mb30">企业文化</h1>
+                                <h2>找准的方向，用对的方法，做好的方案， 实现自我理想与价值</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <div id="fh5co-blog" class="fh5co-bg-section">
             <div class="container">
                 <div class="row animate-box row-pb-md" data-animate-effect="fadeInUp">
                     <div class="col-md-8 col-md-offset-2 text-left fh5co-heading">
                         <span>术业有专供</span>
                         <h2>夏缶精神</h2>
-                        <p>找准的方向，用对的方法，做好的方案， 实现自我理想与价值。</p>
+                        <p>找准的方向，用对的方法，做好的方案， 实现自我理想与价值</p>
                     </div>
                 </div>
                 <div class="row">
@@ -280,8 +296,105 @@
             </div>
         </div>
 
+        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover5.png")  data-stellar-background-ratio="0.85" >
+            <div class="overlay"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="center-block text-center">
+                        <div class="display-t">
+                            <div class="display-tc animate-box" data-animate-effect="fadeInUp">
+                                <h1 class="mb30">加入我们</h1>
+                                <h2>我们真诚欢迎热爱动画事业的人才加盟我们的团队！</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
+        <div class="fh5co-services fh5co-bg-section border-bottom"  data-stellar-background-ratio="0.5">
+            <div class="container">
+                <div class="row row-pb-md">
+                    <div class="col-md-8 col-md-offset-2 text-left animate-box" data-animate-effect="fadeInUp">
+                        <div class="fh5co-heading">
+                            <span>尽善尽美</span>
+                            <h2>服务介绍</h2>
+                            <p>
+                                公司成立以来致力于三维动画、影视后期等专业领域，经过不懈努力，得到了各合作方、同行的认可。公司一直注重创新，希望未来继续稳步发展，实现客户、管理、人才等多方面的积累。同时也希望能诞生更多的原创作品。
+                            <p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-6 ">
+                        <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+						<span class="icon">
+							<i class="icon-eye"></i>
+						</span>
+                            <h3>提出需求</h3>
+                            <p>客户在项目之前，首先要提出需求。内容包括：动画的基本风格，表达内容，基本脚本</p>
 
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 ">
+                        <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+						<span class="icon">
+							<i class="icon-command"></i>
+						</span>
+                            <h3>进行沟通</h3>
+                            <p>客户提出设计方面的需求建议，与策划人员进行具体的沟通</p>
+
+                        </div>
+                    </div>
+                    <div class="clearfix visible-sm-block"></div>
+                    <div class="col-md-4 col-sm-6 ">
+                        <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+						<span class="icon">
+							<i class="icon-power"></i>
+						</span>
+                            <h3>方案和报价</h3>
+                            <p>针对客户的需求结构，客户先提出费用预算，然后我们协商确定制作费用，并制定设计方案</p>
+
+                        </div>
+                    </div>
+
+                    <div class="clearfix visible-md-block"></div>
+
+                    <div class="col-md-4 col-sm-6 ">
+                        <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+						<span class="icon">
+							<i class="icon-eye"></i>
+						</span>
+                            <h3>签订合同</h3>
+                            <p>客户如果满意我们的方案，签订商务合同，客户支付制作预付款</p>
+
+                        </div>
+                    </div>
+                    <div class="clearfix visible-sm-block"></div>
+                    <div class="col-md-4 col-sm-6 ">
+                        <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+						<span class="icon">
+							<i class="icon-command"></i>
+						</span>
+                            <h3>设计制作</h3>
+                            <p>我方按照需求书进行整体设计，出具设计初稿。客户审核并确认设计初稿后，我方开始整体设计制作</p>
+
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 ">
+                        <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+						<span class="icon">
+							<i class="icon-power"></i>
+						</span>
+                            <h3>交付客户实用</h3>
+                            <p>制作完成后，客户进行验收，通过验收后，客户支付项目尾款，交付客户使用</p>
+                        </div>
+                    </div>
+
+                    <div class="clearfix visible-md-block"></div>
+                </div>
+            </div>
+        </div>
 
         <div id="contact" class="fh5co-footer-style-3">
             <div  class="container">
@@ -310,7 +423,6 @@
         </div>
 
 	</div>
-
 
 
 	<div class="gototop js-top">
