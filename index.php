@@ -18,9 +18,10 @@
 					<ul>
 						<li class="active"><a href="index.php">主页</a></li>
 						<li><a href="#fh5co-project">作品</a></li>
-						<li><a href="#fh5co-services">关于我们</a></li>
-                        <li><a href="#joinus">加入我们</a></li>
+						<li><a href="#services">关于我们</a></li>
 						<li><a href="#fh5co-counter">团队经验</a></li>
+                        <li><a href="#fh5co-blog">企业精神</a></li>
+                        <li><a href="#intro">服务介绍</a></li>
 						<li><a href="#contact">联系我们</a></li>
 					</ul>
 				</div>
@@ -107,7 +108,7 @@
             </div>
         </div>
 
-        <div class="fh5co-services fh5co-bg-section border-bottom"  data-stellar-background-ratio="0.5">
+        <div id="services" class="fh5co-services fh5co-bg-section border-bottom"  data-stellar-background-ratio="0.5">
             <div class="container">
                 <div class="row row-pb-md">
                     <div class="col-md-8 col-md-offset-2 text-left animate-box" data-animate-effect="fadeInUp">
@@ -312,7 +313,7 @@
             </div>
         </div>
 
-        <div class="fh5co-services fh5co-bg-section border-bottom"  data-stellar-background-ratio="0.5">
+        <div id="intro" class="fh5co-services fh5co-bg-section border-bottom"  data-stellar-background-ratio="0.5">
             <div class="container">
                 <div class="row row-pb-md">
                     <div class="col-md-8 col-md-offset-2 text-left animate-box" data-animate-effect="fadeInUp">
