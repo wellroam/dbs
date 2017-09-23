@@ -409,7 +409,7 @@
                 <div class="row p-b">
                     <div class="col-lg-4  text-center wow bounceIn" >
                         <i class="fh5co-logo icon-phone"></i>
-                        <p>13882215142</p>
+                        <p>18521521502</p>
                     </div>
                     <div class="col-lg-4 text-center wow bounceIn" >
                         <i class="fh5co-logo icon-location "></i>
@@ -426,9 +426,11 @@
 	</div>
 
 
-	<div class="gototop js-top">
-		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
-	</div>
+
+
+    <div class="contact-popup ">
+        <a href="#contact"><p>咨询电话：18521521502</p></a>
+    </div>
 	
 	<!-- jQuery -->
 

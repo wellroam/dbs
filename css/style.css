@@ -1437,6 +1437,46 @@ h1, h2, h3, h4, h5, h6, figure {
   outline: none;
 }
 
+.contact-popup{
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  z-index: 999;
+
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.contact-popup a {
+  height: 50px;
+  display: table;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  text-align: center;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  border-radius: 4px;
+}
+.contact-popup a i {
+  height: 50px;
+  padding-left: 20px;
+  display: table-cell;
+  vertical-align: middle;
+}
+.contact-popup a p{
+  width: 200px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.contact-popup a:hover, .contact-popup a:active, .contact-popup a:focus {
+  text-decoration: none;
+  outline: none;
+}
+
 .fh5co-nav-toggle {
   width: 25px;
   height: 25px;
