@@ -91,7 +91,7 @@
 		
 	</div>
 
-        <div class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover4.jpg")  data-stellar-background-ratio="0.9" >
+        <div class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover4.jpg")  data-stellar-background-ratio="0.5" >
         <div class="overlay"></div>
             <div class="container">
                 <div class="row">
@@ -267,7 +267,7 @@
 
 
 
-        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover5.jpg")  data-stellar-background-ratio="0.9" >
+        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover5.jpg")  data-stellar-background-ratio="0.5" >
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
@@ -369,7 +369,7 @@
                 </div>
             </div>
         </div>
-        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover7.jpg")  data-stellar-background-ratio="0.9" >
+        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover7.jpg")  data-stellar-background-ratio="0.5" >
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
