@@ -291,9 +291,15 @@ h1, h2, h3, h4, h5, h6, figure {
   background-size: cover;
   background-attachment: fixed;
   position: relative;
+  vertical-align: bottom;
+  background-position: bottom;
   bottom: 0px;
+  display: table-cell;
   float: left;
-  width: 100%;
+  width: 120%;
+  text-align:center;
+  padding-bottom: 400px;
+  margin-bottom: 400px;
 }
 .fh5co-cover .overlay {
   z-index: 0;
@@ -354,6 +360,7 @@ h1, h2, h3, h4, h5, h6, figure {
     background-size: cover;
     background-attachment: fixed;
     background-position: bottom;
+    vertical-align: bottom;
     position: relative;
   }
 }
