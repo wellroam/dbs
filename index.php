@@ -417,6 +417,19 @@
             </div>
         </div>
 
+        <div id="fh5co-started">
+            <div class="container">
+                <div class="row animate-box">
+                    <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+
+                        <h2>加入我们</h2>
+                        <p>我们真诚欢迎热爱动画事业的人才加入我们的团队</p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <div id="contact" class="fh5co-footer-style-3">
             <div  class="container">
                 <div class="row fh5co-made">
