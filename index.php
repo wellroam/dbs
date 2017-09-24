@@ -115,10 +115,11 @@
                         <div class="fh5co-heading">
                             <span>我们匠心独运</span>
                             <h2>关于我们</h2>
-                            <p>成都夏缶动画有限公司成立于2017年，注册资本壹佰万，办公面积60平，公司位于成都市武侯区西部智谷D区，主营业务各类三维动画、影视后期
-                                团队核心成员皆是行业模块老手，制作企业产品动画项目与电视台栏目包装无数，在面对各种类型的商业客户，我们都能快速高效的完成商业答卷！更是为了梦想而不断的制作原创动画，助推国漫复兴。本公司团队核心成员大白汐制作的原创动画《轮回》于2017年一经发布便引起各大视频网站强烈反响。
-                                公司成立以来致力于三维动画、影视后期等专业领域，经过不懈努力，得到了各合作方、同行的认可。公司一直注重创新，希望未来继续稳步发展，实现客户、管理、人才等多方面的积累。同时也希望能诞生更多的原创作品。
                             <p>
+                                成都夏缶动画有限公司成立于2017年，注册资本壹佰万，公司位于成都市武侯区西部智谷D区，主营业务各类三维动画、影视后期。
+                                团队核心成员皆是行业三维动画各个模块老手，制作企业产品动画项目与电视台栏目包装无数，在面对各种类型的商业客户，我们都能快速高效的完成商业答卷！我们可以提供从创意到后期合成整个流程的服务，我们的原则是：最精良的团队做最精良的作品。
+                                我们为了梦想而不断的制作原创动画，助推国漫复兴。本公司团队核心成员大白汐制作的原创动画《轮回》于2017年一经发布便引起各大视频网站强烈反响，先后入围新光奖等各大国际重大动漫赛事，并获得第十一届亚洲青年动漫大赛《贵飞奖》荣誉。
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -201,8 +202,8 @@
                     <div class="center-block text-center">
                         <div class="display-t">
                             <div class="display-tc animate-box" data-animate-effect="fadeInUp">
-                                <h1 class="mb30">加入我们</h1>
-                                <h2>我们真诚欢迎热爱动画事业的人才加盟我们的团队！</h2>
+                                <h1 class="mb30">业务合作范围</h1>
+                                <h2>全力实现您最佳的产品价值!</h2>
                             </div>
                         </div>
                     </div>
@@ -216,8 +217,24 @@
                 <div class="row animate-box" data-animate-effect="fadeInUp" >
                     <div class="col-md-8 col-md-offset-2 text-left fh5co-heading">
                         <span>不积硅步无以至千里</span>
-                        <h2>团队经验</h2>
-                        <p>三维动画、栏目包装、影视后期</p>
+                        <h2>业务合作范围</h2>
+                        <p>
+                            我们可以提供从创意到后期合成整个流程的原创服务，拒绝雷同，拒绝模版，拒绝转包，我们要的就是全力实现您最佳的产品价值，我们的业务范围有：
+
+                            三维角色动画——围绕生动的动画角色展开的妙趣横生的故事情节，或是一个桥段，或是一句台词，或是一个简单的动作，我们赋予角色灵魂，角色实现您最佳的产品价值。
+
+                            三维产品动画——我们绝不按照常规套路模版式的简单的去介绍您的产品，而是先去深入了解您的产品，如果有必要，甚至源代码！甚至源图纸！然后从各个方面去寻找您产品的最佳最酷最新的表现方式，哪怕，用表现兰博基尼的方式去表现一个浴缸！（我们又不是没干过...）
+
+                            三维动画广告——用最佳的三维元素去实现你最佳的产品价值，或是纯制作，或是实拍结合，在您的产品面前，谁最能发挥最好的价值我们就用什么手段。
+
+                            栏目包装——用最新最炫最酷的视听语言以及画面元素去表达您这个栏目的核心内容，尽全力将15到30秒的时间发挥到极致，将观众的注意力凝聚在您的栏目。
+
+                            游戏CG——我们倾注全团队之力，让您的游戏CG，在暴雪面前，也不会颤抖...
+
+                            影视后期——写实是我们的信条。
+
+                            其他业务——我们不做！我们是专业的三维团队好嘛！
+                        </p>
                     </div>
                 </div>
 
@@ -229,7 +246,7 @@
 						<span class="icon">
 							<i class="ti-download"></i>
 						</span>
-                            <span class="counter"><span class="js-counter" data-from="0" data-to="7" data-speed="15" data-refresh-interval="50">1</span>+</span>
+                            <span class="counter"><span class="js-counter" data-from="0" data-to="7" data-speed="15" data-refresh-interval="50">1</span>年+</span>
                             <span class="counter-label">团队历史</span>
 
                         </div>
@@ -244,7 +261,6 @@
                         </div>
                     </div>
 
-
                 </div>
             </div>
         </div>
@@ -258,54 +274,6 @@
                             <div class="display-tc animate-box" data-animate-effect="fadeInUp">
                                 <h1 class="mb30">企业文化</h1>
                                 <h2>找准的方向，用对的方法，做好的方案， 实现自我理想与价值</h2>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div id="fh5co-blog" class="fh5co-bg-section">
-            <div class="container">
-                <div class="row animate-box row-pb-md" data-animate-effect="fadeInUp">
-                    <div class="col-md-8 col-md-offset-2 text-left fh5co-heading">
-                        <span>术业有专供</span>
-                        <h2>夏缶精神</h2>
-                        <p>找准的方向，用对的方法，做好的方案， 实现自我理想与价值</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 col-sm-4 animate-box" data-animate-effect="fadeInUp">
-                        <div class="fh5co-post">
-                            <h3><a>企业精神</a></h3>
-                            <p>超越自我，勇往直前<br>我们的存在就是为客户创造价值</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4 animate-box" data-animate-effect="fadeInUp">
-                        <div class="fh5co-post">
-                            <h3><a>企业法则</a></h3>
-                            <p>细节决定成败<br>低调做人，高调做事</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4 animate-box" data-animate-effect="fadeInUp">
-                        <div class="fh5co-post">
-                            <h3><a>企业价值观</a></h3>
-                            <p>永为先驱<br>尽善尽美</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover5.jpg")  data-stellar-background-ratio="0.9" >
-            <div class="overlay"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="center-block text-center">
-                        <div class="display-t">
-                            <div class="display-tc animate-box" data-animate-effect="fadeInUp">
-                                <h1 class="mb30">加入我们</h1>
-                                <h2>我们真诚欢迎热爱动画事业的人才加盟我们的团队！</h2>
                             </div>
                         </div>
                     </div>
@@ -396,6 +364,56 @@
                 </div>
             </div>
         </div>
+
+        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover5.jpg")  data-stellar-background-ratio="0.9" >
+            <div class="overlay"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="center-block text-center">
+                        <div class="display-t">
+                            <div class="display-tc animate-box" data-animate-effect="fadeInUp">
+                                <h1 class="mb30">服务流程</h1>
+                                <h2>我们真诚欢迎热爱动画事业的人才加盟我们的团队！</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="fh5co-blog" class="fh5co-bg-section">
+            <div class="container">
+                <div class="row animate-box row-pb-md" data-animate-effect="fadeInUp">
+                    <div class="col-md-8 col-md-offset-2 text-left fh5co-heading">
+                        <span>术业有专供</span>
+                        <h2>夏缶精神</h2>
+                        <p>专注，专业，专一</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-4 animate-box" data-animate-effect="fadeInUp">
+                        <div class="fh5co-post">
+                            <h3><a>企业精神</a></h3>
+                            <p>超越自我，勇往直前<br>我们的存在就是为客户创造价值</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4 animate-box" data-animate-effect="fadeInUp">
+                        <div class="fh5co-post">
+                            <h3><a>企业法则</a></h3>
+                            <p>细节决定成败<br>低调做人，高调做事</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4 animate-box" data-animate-effect="fadeInUp">
+                        <div class="fh5co-post">
+                            <h3><a>企业价值观</a></h3>
+                            <p>永为先驱<br>尽善尽美</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
 
         <div id="contact" class="fh5co-footer-style-3">
             <div  class="container">
