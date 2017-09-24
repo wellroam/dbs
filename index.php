@@ -265,21 +265,24 @@
             </div>
         </div>
 
-        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover7.jpg")  data-stellar-background-ratio="0.9" >
+
+
+        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover5.jpg")  data-stellar-background-ratio="0.9" >
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
                     <div class="center-block text-center">
                         <div class="display-t">
                             <div class="display-tc animate-box" data-animate-effect="fadeInUp">
-                                <h1 class="mb30">企业文化</h1>
-                                <h2>找准的方向，用对的方法，做好的方案， 实现自我理想与价值</h2>
+                                <h1 class="mb30">服务流程</h1>
+                                <h2>我们真诚欢迎热爱动画事业的人才加盟我们的团队！</h2>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+
 
         <div id="intro" class="fh5co-services fh5co-bg-section border-bottom"  data-stellar-background-ratio="0.5">
             <div class="container">
@@ -364,16 +367,15 @@
                 </div>
             </div>
         </div>
-
-        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover5.jpg")  data-stellar-background-ratio="0.9" >
+        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover7.jpg")  data-stellar-background-ratio="0.9" >
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
                     <div class="center-block text-center">
                         <div class="display-t">
                             <div class="display-tc animate-box" data-animate-effect="fadeInUp">
-                                <h1 class="mb30">服务流程</h1>
-                                <h2>我们真诚欢迎热爱动画事业的人才加盟我们的团队！</h2>
+                                <h1 class="mb30">企业文化</h1>
+                                <h2>找准的方向，用对的方法，做好的方案， 实现自我理想与价值</h2>
                             </div>
                         </div>
                     </div>
@@ -413,8 +415,6 @@
             </div>
         </div>
 
-
-
         <div id="contact" class="fh5co-footer-style-3">
             <div  class="container">
                 <div class="row fh5co-made">
@@ -442,9 +442,6 @@
         </div>
 
 	</div>
-
-
-
 
     <div class="contact-popup ">
         <a href="#contact"><p>咨询电话：18521521502</p></a>
