@@ -19,7 +19,7 @@
 						<li class="active"><a href="index.php">主页</a></li>
 						<li><a href="#fh5co-project">作品</a></li>
 						<li><a href="#services">关于我们</a></li>
-						<li><a href="#fh5co-counter">团队经验</a></li>
+						<li><a href="#fh5co-counter">业务合作范围</a></li>
                         <li><a href="#fh5co-blog">企业精神</a></li>
                         <li><a href="#intro">服务介绍</a></li>
 						<li><a href="#contact">联系我们</a></li>
@@ -195,7 +195,7 @@
         </div>
 
 
-        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover6.jpg")  data-stellar-background-ratio="0.9" >
+        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/bxjg.jpg")  data-stellar-background-ratio="0.5" >
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
