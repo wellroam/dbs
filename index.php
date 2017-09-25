@@ -91,7 +91,7 @@
 		
 	</div>
 
-        <div class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover4.jpg")  data-stellar-background-ratio="0.3" >
+        <div class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover4.jpg")  data-stellar-background-ratio="0.1" >
         <div class="overlay"></div>
             <div class="container">
                 <div class="row">
@@ -194,7 +194,7 @@
             </div>
         </div>
 
-        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/bxjg.jpg); "  data-stellar-background-ratio="0.3" >
+        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/bxjg.jpg); "  data-stellar-background-ratio="0.1" >
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
@@ -259,7 +259,7 @@
 
 
 
-        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover5.jpg")  data-stellar-background-ratio="0.3" >
+        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover5.jpg")  data-stellar-background-ratio="0.1" >
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
@@ -276,7 +276,7 @@
         </div>
 
 
-        <div id="intro" class="fh5co-services fh5co-bg-section border-bottom"  data-stellar-background-ratio="0.3">
+        <div id="intro" class="fh5co-services fh5co-bg-section border-bottom"  data-stellar-background-ratio="0.1">
             <div class="container">
                 <div class="row row-pb-md">
                     <div class="col-md-8 col-md-offset-2 text-left animate-box" data-animate-effect="fadeInUp">
@@ -361,7 +361,7 @@
                 </div>
             </div>
         </div>
-        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover7.jpg")  data-stellar-background-ratio="0.3" >
+        <div id="joinus" class="fh5co-cover" style="background-image: url(<?php bloginfo('template_url'); ?>/images/cover7.jpg")  data-stellar-background-ratio="0.1" >
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
