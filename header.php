@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>夏缶动画—每一帧都有灵魂</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="dabaisha" />
+    <meta name="description" content="shufflecg" />
     <meta name="keywords" content="" />
     <meta name="author" content="wellroam" />
 
@@ -32,15 +32,16 @@
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.min.js"></script>
     <!-- Modernizr JS -->
     <script src="https://cdn.bootcss.com/modernizr/2.6.2/modernizr.min.js"></script>
     <script src="<?php echo get_template_directory_uri(); ?>/js/parallax.min.js"></script>
     <script src="<?php echo get_template_directory_uri(); ?>/js/theme.js"></script>
     <script src="<?php echo get_template_directory_uri(); ?>/js/rgbaster.js"></script>
+    <script src="https://cdn.bootcss.com/jquery.nicescroll/3.6.5/jquery.nicescroll.min.js"></script>
     <!-- FOR IE9 below -->
     <!--[if lt IE 9]>
     <![endif]-->
-    <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.min.js"></script>
+
 </head>
 <body>

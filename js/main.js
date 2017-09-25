@@ -254,7 +254,6 @@
 	};
 
     var fullHeight = function () {
-    	console.log(!isMobile.any());
         if (!isMobile.any()) {
             $('.js-full-height').css('height', $(window).height());
             $(window).resize(function () {
@@ -262,6 +261,20 @@
             });
         }
     };
+
+    var scroll = function () {
+            $("html").niceScroll({
+                cursorcolor: "#1a1a1a",
+                cursorborder: "#1a1a1a",
+                cursoropacitymin: 0.2,
+                cursorwidth: 5,
+                zindex: 10,
+                scrollspeed: 60,
+                mousescrollstep: 40,
+                enablemousewhee:true
+			});
+
+    }
 	
 	$(function(){
 		mobileMenuOutsideClick();
@@ -275,6 +288,7 @@
 		counterWayPoint();
 		parallax();
 		fullHeight();
+		scroll();
 	});
 
 
