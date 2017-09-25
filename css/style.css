@@ -354,7 +354,7 @@ h1, h2, h3, h4, h5, h6, figure {
     background-color: transparent;
     background-size: cover;
     background-attachment: fixed;
-    background-position: bottom;
+    background-position: top left;
     vertical-align: bottom;
     position: relative;
   }
