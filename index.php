@@ -216,13 +216,13 @@
                         <h2>业务合作范围</h2>
                         <p>
                             &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp我们可以提供从创意到后期合成整个流程的原创服务，拒绝雷同，拒绝模版，拒绝转包，我们要的就是全力实现您更好的产品价值，我们的业务范围有：<br>
-                            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp三维角色动画——围绕生动的动画角色展开的妙趣横生的故事情节，或是一个桥段，或是一句台词，或是一个简单的动作，我们赋予角色灵魂，角色实现您更好的产品价值。<br>
-                            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp三维产品动画——我们绝不按照常规套路模版式的简单的去介绍您的产品，而是先去深入了解您的产品，如果有必要，甚至源代码！甚至源图纸！然后从各个方面去寻找您产品的更新更好更酷的表现方式，哪怕，用表现兰博基尼的方式去表现一个鱼缸！（我们又不是没干过...）<br>
-                            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp三维动画广告——用合适的三维元素去实现你更好的产品价值，或是纯制作，或是实拍结合，在您的产品面前，谁更能发挥更好的价值我们就用什么手段。<br>
-                            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp栏目包装——用更新更炫更酷的视听语言以及画面元素去表达您这个栏目的核心内容，尽全力将15到30秒的时间发挥到极致，将观众的注意力凝聚在您的栏目。<br>
-                            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp游戏CG——我们倾注全团队之力，让您的游戏CG，在暴雪面前，也不会颤抖... <br>
-                            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp影视后期——写实是我们的信条。 <br>
-                            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp其他业务——我们不做！我们是专业的三维团队好嘛！ <br>
+                            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<strong>三维角色动画</strong>——围绕生动的动画角色展开的妙趣横生的故事情节，或是一个桥段，或是一句台词，或是一个简单的动作，我们赋予角色灵魂，角色实现您更好的产品价值。<br>
+                            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<strong>三维产品动画</strong>——我们绝不按照常规套路模版式的简单的去介绍您的产品，而是先去深入了解您的产品，如果有必要，甚至源代码！甚至源图纸！然后从各个方面去寻找您产品的更新更好更酷的表现方式，哪怕，用表现兰博基尼的方式去表现一个鱼缸！（我们又不是没干过...）<br>
+                            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<strong>三维动画广告</strong>——用合适的三维元素去实现你更好的产品价值，或是纯制作，或是实拍结合，在您的产品面前，谁更能发挥更好的价值我们就用什么手段。<br>
+                            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<strong>栏目包装</strong>——用更新更炫更酷的视听语言以及画面元素去表达您这个栏目的核心内容，尽全力将15到30秒的时间发挥到极致，将观众的注意力凝聚在您的栏目。<br>
+                            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<strong>游戏CG</strong>——我们倾注全团队之力，让您的游戏CG，在暴雪面前，也不会颤抖... <br>
+                            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<strong>影视后期</strong>——写实是我们的信条。 <br>
+                            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<strong>其他业务</strong>——我们不做！我们是专业的三维团队好嘛！ <br>
                         </p>
                     </div>
                 </div>
@@ -253,7 +253,7 @@
                 </div>
             </div>
         </div>
-        <div id="joinus" class="fh5co-cover" style="background-image:url(http://cnd.shufflecg.com/fwlc.jpg)")  data-stellar-background-ratio="0.1" >
+        <div id="joinus" class="fh5co-cover" style="background-image:url(http://cnd.shufflecg.com/lct.jpg)")  data-stellar-background-ratio="0.1" >
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
@@ -276,8 +276,8 @@
                             <span>尽善尽美</span>
                             <h2>服务介绍</h2>
                             <p>
-                                &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp项目流程：合作意愿——了解需求——合同签订——项目创意与策划（若客户提供则省略此环节）——产品或角色设定—— <br>
-                                &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp模型——layout(出动画分镜）——材质——动画——特效——画面合成——音频合成——成片输出 <br>
+                                &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp项目流程：合作意愿——了解需求——合同签订——项目创意与策划（若客户提供则省略此环节）——产品或角色设定——
+                                模型——layout(出动画分镜）——材质——动画——特效——画面合成——音频合成——成片输出 <br>
                                 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp过程中不断与客户协商敲定后再进行下一步制作流程。成片输出后可进行三次无偿修改（不包含创意以及设定类框架性修改）。 <br>
                             </p>
                         </div>
