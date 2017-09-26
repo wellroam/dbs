@@ -137,7 +137,7 @@ if (single_float == true) {
     function(a) {
         if ($(window).width() > 991) {
             a.preventDefault();
-            $("body").append("<div class='single_shadow' style='display:none'><div class='single container'><div class='closeBtn'></div><div class='fullBtn'></div><div class='row' style='display:none'></div></div></div>");
+            $("body").append("<div class='single_shadow' style='display:none'><div class='single container'><div class='closeBtn'></div><div class='row' style='display:none'></div></div></div>");
             single_url = $(this).attr("gotopage");
             $("body > .single_shadow").fadeIn();
             back_url = window.location.href;
@@ -174,12 +174,7 @@ if (single_float == true) {
         singleAjax.abort();
         history.back()
     });
-    $(document).on("click", ".single_shadow > .single.container > .fullBtn",
-    function(a) {
-        $("body").css("overflow", "");
-        $("body > .single_shadow").remove();
-        window.location.href = single_url
-    });
+
     $(window).on("popstate",
     function(a) {
         if ($("body > .single_shadow").length != 0) {

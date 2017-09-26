@@ -80,7 +80,6 @@
 
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-left fh5co-heading  animate-box">
-					<a href=""><span>查看更多.....</span> </a>
 
 				</div>
 			</div>
