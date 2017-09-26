@@ -261,7 +261,7 @@
                         <div class="display-t">
                             <div class="display-tc animate-box" data-animate-effect="fadeInUp">
                                 <h1 class="mb30">服务流程</h1>
-                                <h2>我们真诚欢迎热爱动画事业的人才加盟我们的团队！</h2>
+                                <h2>专业的流程是高品质作品的前提与保障！</h2>
                             </div>
                         </div>
                     </div>
@@ -276,8 +276,9 @@
                             <span>尽善尽美</span>
                             <h2>服务介绍</h2>
                             <p>
-                                &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp项目流程：合作意愿——了解需求——合同签订——项目创意与策划（若客户提供则省略此环节）——产品或角色设定——
-                                模型——layout(出动画分镜）——材质——动画——特效——画面合成——音频合成——成片输出 <br>
+                                &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp项目流程：<br>
+                                <b>合作意愿</b>——<b>了解需求</b>——<b>合同签订</b>——<b>项目创意与策划</b>（若客户提供则省略此环节）——<b>产品或角色设定</b>——
+                                <b>模型</b>——<b>layout</b>(出动画分镜）——<b>材质</b>——<b>动画</b>——<b>特效</b>——<b>画面合成</b>——<b>音频合成</b>——<b>成片输出</b> <br>
                                 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp过程中不断与客户协商敲定后再进行下一步制作流程。成片输出后可进行三次无偿修改（不包含创意以及设定类框架性修改）。 <br>
                             </p>
                         </div>
