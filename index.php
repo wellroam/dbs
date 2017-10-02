@@ -421,7 +421,7 @@
                 <div class="row p-b">
                     <div class="col-lg-4  text-center wow bounceIn" >
                         <i class="fh5co-logo icon-phone"></i>
-                        <p>18521521502</p>
+                        <p>13882215142/18782986997</p>
                     </div>
                     <div class="col-lg-4 text-center wow bounceIn" >
                         <i class="fh5co-logo icon-location "></i>
@@ -436,7 +436,7 @@
         </div>
 	</div>
     <div class="contact-popup ">
-        <a href="#contact"><p>咨询电话：18521521502</p></a>
+        <a href="#contact"><p>咨询电话：13882215142/18782986997</p></a>
     </div>
 	<!-- jQuery -->
 	<!-- jQuery Easing -->
