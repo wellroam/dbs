@@ -39,6 +39,15 @@
     <script src="<?php echo get_template_directory_uri(); ?>/js/theme.js"></script>
     <script src="<?php echo get_template_directory_uri(); ?>/js/rgbaster.js"></script>
     <script src="https://cdn.bootcss.com/jquery.nicescroll/3.6.5/jquery.nicescroll.min.js"></script>
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?db77786e7e60398019eb4df255d04d26";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
     <!-- FOR IE9 below -->
     <!--[if lt IE 9]>
     <![endif]-->
