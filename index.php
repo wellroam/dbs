@@ -2,7 +2,7 @@
 
 	<body>
 		
-	<div class="fh5co-loader"></div>
+	<!--div class="fh5co-loader"></div-->
 	
 	<div id="page">
 	<nav class="fh5co-nav" role="navigation">

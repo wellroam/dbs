@@ -32,8 +32,11 @@
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.min.js"></script>
+    <!--yuanj>
+
     <!-- Modernizr JS -->
+    <script src="https://cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script>
+
     <script src="https://cdn.bootcss.com/modernizr/2.6.2/modernizr.min.js"></script>
     <script src="<?php echo get_template_directory_uri(); ?>/js/parallax.min.js"></script>
     <script src="<?php echo get_template_directory_uri(); ?>/js/theme.js"></script>
