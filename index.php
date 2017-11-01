@@ -425,7 +425,7 @@
                     </div>
                     <div class="col-lg-4 text-center wow bounceIn" >
                         <i class="fh5co-logo icon-location "></i>
-                        <p>成都市武侯区西部智谷D区2栋1单元706</p>
+                        <p>成都市武侯区西部智谷D区1栋3单元706</p>
                     </div>
                     <div class="col-lg-4  text-center wow bounceIn">
                         <i class="fh5co-logo icon-mail"></i>
