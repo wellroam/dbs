@@ -67,8 +67,8 @@
 
 	};
 
-    var scene = document.getElementById('scene');
-    var parallax = new Parallax(scene);
+    // var scene = document.getElementById('scene');
+    // var parallax = new Parallax(scene);
 
 	var offcanvasMenu = function() {
 
@@ -286,7 +286,7 @@
 		goToTop();
 		// loaderPage();
 		counterWayPoint();
-		parallax();
+		//parallax();
 		fullHeight();
 		scroll();
 	});

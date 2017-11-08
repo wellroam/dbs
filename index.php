@@ -27,12 +27,8 @@
 		</div>
 	</nav>
 
-	<header id="fh5co-header" class="fh5co-cover js-full-height" role="banner"  data-stellar-background-ratio="0.5">
-        <div id="scene" class="fh5co-cover overlay js-full-height ">
-            <video  src="http://cnd.shufflecg.com/shuffle.mp4" autoplay="autoplay" loop="loop" >
+	<header id="fh5co-header" class="fh5co-cover js-full-height" role="banner" style="background-image:url(http://cnd.shufflecg.com/yg.jpg);" data-stellar-background-ratio="0.5">
 
-            </video>
-        </div>
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">

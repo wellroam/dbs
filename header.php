@@ -38,9 +38,8 @@
     <script src="https://cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script>
 
     <script src="https://cdn.bootcss.com/modernizr/2.6.2/modernizr.min.js"></script>
-    <script src="<?php echo get_template_directory_uri(); ?>/js/parallax.min.js"></script>
+
     <script src="<?php echo get_template_directory_uri(); ?>/js/theme.js"></script>
-    <script src="<?php echo get_template_directory_uri(); ?>/js/rgbaster.js"></script>
     <script src="https://cdn.bootcss.com/jquery.nicescroll/3.6.5/jquery.nicescroll.min.js"></script>
     <script>
     var _hmt = _hmt || [];
@@ -56,4 +55,3 @@
     <![endif]-->
 
 </head>
-<body>
