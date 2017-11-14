@@ -85,6 +85,7 @@
 
         <div class="fh5co-cover" style="background-image: url(http://cnd.shufflecg.com/lr.jpg)")  data-stellar-background-ratio="0.1" >
         <div class="overlay"></div>
+
             <div class="container">
                 <div class="row">
                     <div class="center-block text-center">
