@@ -27,7 +27,7 @@
 		</div>
 	</nav>
 
-	<header id="fh5co-header" class="fh5co-cover js-full-height" role="banner" style="background-image:url(http://cnd.shufflecg.com/yg.jpg);" data-stellar-background-ratio="0.5">
+	<header id="fh5co-header" class="fh5co-cover js-full-height" role="banner" style="background-image:url(http://cnd.shufflecg.com/lr.jpg);" data-stellar-background-ratio="0.5">
 
 		<div class="overlay"></div>
 		<div class="container">
@@ -83,7 +83,7 @@
 		
 	</div>
 
-        <div class="fh5co-cover" style="background-image: url(http://cnd.shufflecg.com/lr.jpg)")  data-stellar-background-ratio="0.1" >
+        <div class="fh5co-cover" style="background-image: url(http://cnd.shufflecg.com/wpd.jpg)")  data-stellar-background-ratio="0.1" >
         <div class="overlay"></div>
 
             <div class="container">
