@@ -27,7 +27,7 @@
 		</div>
 	</nav>
 
-	<header id="fh5co-header" class="fh5co-cover js-full-height" role="banner" style="background-image:url(http://cnd.shufflecg.com/lrb.jpg);" data-stellar-background-ratio="0.5">
+	<header id="fh5co-header" class="fh5co-cover js-full-height" role="banner" style="background-image:url(http://cnd.shufflecg.com/lrb.png);" data-stellar-background-ratio="0.5">
 
 		<div class="overlay"></div>
 		<div class="container">
