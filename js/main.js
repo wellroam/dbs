@@ -275,6 +275,15 @@
 			});
 
     }
+
+    var weixinpopup = function ()
+    {
+        $("#weixin-popup").popover({
+            placement:'top',
+            trigger: 'hover',
+            html:true
+        });
+    };
 	
 	$(function(){
 		mobileMenuOutsideClick();
@@ -289,6 +298,7 @@
 		//parallax();
 		fullHeight();
 		scroll();
+		weixinpopup();
 	});
 
 

@@ -27,7 +27,7 @@
 		</div>
 	</nav>
 
-	<header id="fh5co-header" class="fh5co-cover js-full-height" role="banner" style="background-image:url(http://cnd.shufflecg.com/lrb.png);" data-stellar-background-ratio="0.5">
+	<header id="fh5co-header" class="fh5co-cover js-full-height" role="banner" style="background-image:url(http://cnd.shufflecg.com/lrf.jpg);" data-stellar-background-ratio="0.5">
 
 		<div class="overlay"></div>
 		<div class="container">
@@ -416,17 +416,22 @@
                 <div class="p-b"></div>
 
                 <div class="row p-b">
-                    <div class="col-lg-4  text-center wow bounceIn" >
+                    <div class="col-lg-3  text-center wow bounceIn" >
                         <i class="fh5co-logo icon-phone"></i>
                         <p>13882215142/18782986997</p>
                     </div>
-                    <div class="col-lg-4 text-center wow bounceIn" >
+                    <div class="col-lg-3 text-center wow bounceIn" >
                         <i class="fh5co-logo icon-location "></i>
                         <p>成都市武侯区西部智谷D区1栋3单元706</p>
                     </div>
-                    <div class="col-lg-4  text-center wow bounceIn">
-                        <i class="fh5co-logo icon-mail"></i>
-                        <a href="mailto:shufflecg@shufflecg.com"><p>shufflecg@shufflecg.com</p></a>
+
+                    <div class="col-lg-3  text-center wow bounceIn">
+                        <i class="fh5co-logo icon-qq"></i>
+                        <p>810759340</p>
+                    </div>
+                    <div id="weixin-popup" class="col-lg-3  text-center wow bounceIn" data-wow-delay=".6s"   rel="popover" data-content='<img src="http://cnd.shufflecg.com/erweima.jpg"  class="img-responsive center-block" />'>
+                        <i  class="fh5co-logo icon-weixin " ></i>
+                        <p>微信号联系</p>
                     </div>
                 </div>
             </div>
@@ -448,6 +453,19 @@
 	<!-- Stellar -->
 	<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.stellar.min.js"></script>
 	<!-- Main -->
+    <!--弹出窗-->
+    <script src="https://cdn.bootcss.com/bootstrap/3.2.0/js/tooltip.min.js"></script>
+    <script src="https://cdn.bootcss.com/bootstrap/3.2.0/js/popover.min.js"></script>
+    <script>
+        $(function ()
+        {
+            $("#weixin-popup").popover({
+                placement:'top',
+                trigger: 'hover',
+                html:true
+            });
+        });
+    </script>
 	<script src="<?php echo get_template_directory_uri(); ?>/js/main.js"></script>
 
 
