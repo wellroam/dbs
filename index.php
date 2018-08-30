@@ -418,7 +418,7 @@
                 <div class="row p-b">
                     <div class="col-lg-3  text-center wow bounceIn" >
                         <i class="fh5co-logo icon-phone"></i>
-                        <p>13882215142/18782986997</p>
+                        <p>18980646231/18782986997</p>
                     </div>
                     <div class="col-lg-3 text-center wow bounceIn" >
                         <i class="fh5co-logo icon-location "></i>
@@ -438,7 +438,7 @@
         </div>
 	</div>
     <div class="contact-popup ">
-        <a href="#contact"><i  class="fh5co-logo icon-phone " ></i><p>13882215142/18782986997</p></a>
+        <a href="#contact"><i  class="fh5co-logo icon-phone " ></i><p>18980646231/18782986997</p></a>
         <a href="#contact"><i  class="fh5co-logo icon-qq " ></i><p>810759340</p></a>
     </div>
 	<!-- jQuery -->
