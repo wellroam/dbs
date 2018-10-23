@@ -109,7 +109,7 @@
                             <span>我们匠心独运</span>
                             <h2>关于我们</h2>
                             <p>
-                                &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp成都夏缶动画有限公司前身是大白汐工作室，注册资本壹佰万，公司位于成都市武侯区西部智谷D区，主营业务各类三维动画、影视后期。<br>
+                                &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp成都夏缶动画有限公司前身是大白汐工作室，注册资本壹佰万，公司位于成都市双流区锦韵路533号嘉年华青年城smart公寓8栋2单元2814号，主营业务各类三维动画、影视后期。<br>
                                 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp团队核心成员皆是行业三维动画各个模块老手，制作企业产品动画项目与电视台栏目包装无数，在面对各种类型的商业客户，我们都能快速高效的完成商业答卷！我们可以提供从创意到后期合成整个流程的服务，我们的原则是：最精良的团队做最精良的作品。<br>
                                 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp我们为了梦想而不断的制作原创动画，助推国漫复兴。本公司团队核心成员大白汐制作的原创动画《轮回》于2017年一经发布便引起各大视频网站强烈反响，先后入围新光奖等各大国际重大动漫赛事，并获得第十一届亚洲青年动漫大赛《贵飞奖》荣誉。<br>
                             </p>
@@ -431,7 +431,7 @@
                     </div>
                     <div class="col-lg-3 text-center wow bounceIn" >
                         <i class="fh5co-logo icon-location "></i>
-                        <p>成都市双流区锦韵路533号嘉年华青年城smart公寓8栋2单元2814</p>
+                        <p>成都市双流区锦韵路533号嘉年华青年城smart公寓8栋2单元2814号</p>
                     </div>
 
                     <div class="col-lg-3  text-center wow bounceIn">
