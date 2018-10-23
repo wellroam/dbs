@@ -400,7 +400,16 @@
                 <div class="row animate-box">
                     <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
                         <h2>加入我们</h2>
-                        <p>我们真诚欢迎热爱动画事业的人才加入我们的团队</p>
+                        <p>诚聘动画师</p>
+                        <p>1、熟悉影视动画角色动画表演规律；<br>
+                            2、精通Maya的动画模块，熟悉绑定模块者优先<br>
+                            3、能够能够根据指导思路延伸发挥创意能力，有表演天赋<br>
+                            4、熟悉三维动画制作流程，并对项目品质有足够的把控能力<br>
+                            5、有一定建模能力最好。</p>
+                        <p>诚聘实习生</p>
+                        <p>做事认真踏实，有较强的执行力，能融入团队合作中。<br>
+                            有maya动画及建模基础（尤其动画模块要求熟练），独立完成过简易maya动画短片者优先。<br>
+                            对动画运动规律有详细认识，有学习热情，吃苦耐劳。</p>
                     </div>
                 </div>
             </div>
@@ -422,7 +431,7 @@
                     </div>
                     <div class="col-lg-3 text-center wow bounceIn" >
                         <i class="fh5co-logo icon-location "></i>
-                        <p>成都市武侯区西部智谷D区1栋3单元706</p>
+                        <p>成都市双流区锦韵路533号嘉年华青年城smart公寓8栋2单元2814</p>
                     </div>
 
                     <div class="col-lg-3  text-center wow bounceIn">
